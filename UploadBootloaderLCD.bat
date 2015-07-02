@@ -1,0 +1,1 @@
+scriptc LOADSIGMA /c com5
